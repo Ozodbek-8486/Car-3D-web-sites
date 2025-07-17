@@ -23,7 +23,7 @@ Bu loyiha React, Tailwind CSS va Three.js yordamida yaratilgan zamonaviy avtomob
 
 ## 📂 3D Model
 
-Model joylashuvi: `public/models/porsche.glb`
+Model joylashuvi: `components/navbar.tsx`
 
 ## 🚀 Loyihani ishga tushirish
 
