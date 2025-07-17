@@ -16,7 +16,7 @@ Bu loyiha React, Tailwind CSS va Three.js yordamida yaratilgan zamonaviy avtomob
 
 ## 📸 Ekran tasviri
 
-![Bosh sahifa](screnshots/image.png)
+![Bosh sahifa](screenshots/image.png)
 
 
 ## 📂 3D Model
