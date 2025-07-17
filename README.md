@@ -6,12 +6,13 @@ Bu loyiha React, Tailwind CSS va Three.js yordamida yaratilgan zamonaviy avtomob
 
 ## 🛠️ Texnologiyalar
 
-- React
-- Tailwind CSS
-- Three.js
-- @react-three/fiber
-- JavaScript (ES6+)
-- HTML / CSS
+## 🛠️ Texnologiyalar
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 - GLB formatdagi 3D model (`porsche.glb`)
 
 ## 📸 Ekran tasviri
